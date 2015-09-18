@@ -7,7 +7,7 @@ class TestSpec extends spock.lang.Specification {
 
 		where:
 		name     | length
-		"Spock"  | 5
+		"Spock"  | 9
 		"Kirk"   | 4
 		"Scotty" | 6
 	}
